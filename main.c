@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    pritf("hola mundo");
+    pritf("estamos probando un archivo.c");
     return 2;
 }
